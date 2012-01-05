@@ -88,4 +88,4 @@ _Message_ is a String
 BUGS
 ----
 
- * Not a full OTP application
+ * R15 compatibility issues
